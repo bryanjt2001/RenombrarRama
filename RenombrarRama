@@ -1,0 +1,17 @@
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectorama>git branch
+* master
+  pruebas
+  ramanueva
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectorama>git checkout ramanueva
+Switched to branch 'ramanueva'
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectorama>git branch -m ramanueva ramanuevaV2
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectorama>git branch
+  master
+  pruebas
+* ramanuevaV2
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectorama>
